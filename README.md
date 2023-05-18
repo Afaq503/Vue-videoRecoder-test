@@ -21,7 +21,7 @@ Link: https://crmtodo.netlify.app/#/
 ## Json Server
 
 
-go to databases.json file and run json server uising this command ( json-server --watch database.json )
+go to codedb.json file and run json server uising this command ( json-server --watch codedb.json )
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
