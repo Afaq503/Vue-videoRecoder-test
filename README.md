@@ -16,7 +16,7 @@ yarn build
 ```
 ## For online use
 
-Link: https://crmtodo.netlify.app/#/
+Link: https://testrecodervideo.netlify.app/#/
 
 ## Json Server
 
